@@ -1,4 +1,4 @@
-# Code the Dream Cloud Workspace
+# Code the Dream ML Workspace
 A workspace to develop hands-on, accessible machine learning materials for [Code the Dream](https://codethedream.org/). This space is to experiment with lesson plans, identify the most important skills, and create learning paths for Python 200. Student facing-material will be hosted separately at Code the Dream. 
 
 ## Plan
